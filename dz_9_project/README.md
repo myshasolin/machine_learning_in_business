@@ -1,4 +1,4 @@
-Классификация прогнозов заработной платы
+##Классификация прогнозов заработной платы
 
 Ссылка на датасет: https://www.kaggle.com/datasets/ayessa/salary-prediction-classification
 
@@ -8,37 +8,37 @@
 
 Столбцы данных:
 
--age (возраст)
+-```age``` - возраст
 
--workclass (тип занятости)
+-```workclass``` - тип занятости
 
--fnlwgt (весовой коэффициент для каждого индивидуума в выборке)
+-```fnlwgt``` - весовой коэффициент для каждого индивидуума в выборке
 
--education (образование)
+-```education``` - образование
 
--education-num (количество лет обучения)
+-```education-num``` - количество лет обучения
 
--marital-status (семейное положение)
+-```marital-status``` - семейное положение
 
--occupation (профессия)
+-```occupation``` - профессия
 
--relationship (отношения)
+-```relationship``` - отношения
 
--race (раса)
+-```race``` - раса
 
--sex (пол)
+-```sex``` - пол
 
--capital-gain (прирост капитала)
+-```capital-gain``` - прирост капитала
 
--capital-loss (потеря капитала)
+-```capital-loss``` - потеря капитала
 
--hours-per-week (часов в неделю)
+-```hours-per-week``` - часов в неделю
 
--native-country (родная страна)
+-```native-country``` - родная страна
 
--salary (зарплата): <=50K или >50K.
+-```salary``` - зарплата: <=50K или >50K.
 
-В проекте:
+**В проекте:**
 - dz_9_model_creation.ipynb – описание датафрейма, пайплайн и выбор алгоритма и модели
 - dz_9_flask_server.ipynb – Flask-сервер
 - dz_9_request.ipynb – тестирование модели
