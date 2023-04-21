@@ -1,4 +1,4 @@
-##Классификация прогнозов заработной платы
+**Прогноз заработной платы (бинарная классификация)**
 
 Ссылка на датасет: https://www.kaggle.com/datasets/ayessa/salary-prediction-classification
 
