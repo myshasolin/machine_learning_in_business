@@ -19,7 +19,7 @@
       1
     </td>
     <td>
-      <a href="#">
+      <a href="https://github.com/myshasolin/machine_learning_in_business/tree/main/1%20Data-driven-%D0%BF%D0%BE%D0%B4%D1%85%D0%BE%D0%B4">
         Data-driven-подход на примере задачи маршрутизации заявок в helpdesk
       </a>
     </td>
@@ -38,7 +38,7 @@
       2
     </td>
     <td>
-      <a href="#">
+      <a href="https://github.com/myshasolin/machine_learning_in_business/tree/main/2%20%D0%9F%D1%80%D0%BE%D1%84%D0%B8%D0%BB%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D0%B5%D0%B9.%20%D0%A1%D0%B5%D0%B3%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F">
         Профилирование пользователей. Сегментация: unsupervised learning (clustering, LDA/ARTM), supervised (multi/binary classification)
       </a>
     </td>
@@ -57,7 +57,7 @@
       3
     </td>
     <td>
-      <a href="#">
+      <a href="https://github.com/myshasolin/machine_learning_in_business/blob/main/3%20%D0%A1%D0%B2%D1%8F%D0%B7%D1%8C%20%D0%B1%D0%B8%D0%B7%D0%BD%D0%B5%D1%81-%D0%BF%D0%BE%D0%BA%D0%B0%D0%B7%D0%B0%D1%82%D0%B5%D0%BB%D0%B5%D0%B9%20%D0%B8%20DS-%D0%BC%D0%B5%D1%82%D1%80%D0%B8%D0%BA/dz_3.ipynb">
         Связь бизнес-показателей и DS-метрик
       </a>
     </td>
@@ -76,7 +76,7 @@
       4
     </td>
     <td>
-      <a href="#">
+      <a href="https://github.com/myshasolin/machine_learning_in_business/blob/main/4%20Uplift-%D0%BC%D0%BE%D0%B4%D0%B5%D0%BB%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/dz_4.ipynb">
         Uplift-моделирование
       </a>
     </td>
@@ -94,7 +94,7 @@
       5
     </td>
     <td>
-      <a href="#">
+      <a href="https://github.com/myshasolin/machine_learning_in_business/blob/main/5%20%D0%97%D0%B0%D0%B4%D0%B0%D1%87%D0%B0%20%D0%BE%D1%82%D1%82%D0%BE%D0%BA%D0%B0/dz_5.ipynb">
         Задача оттока: варианты постановки, возможные способы решения
       </a>
     </td>
@@ -112,7 +112,7 @@
       6
     </td>
     <td>
-      <a href="#">
+      <a href="https://github.com/myshasolin/machine_learning_in_business/blob/main/6%20%D0%97%D0%B0%D0%B4%D0%B0%D1%87%D0%B0%20look-alike/dz_6.ipynb">
         Задача look-alike
       </a>
     </td>
@@ -130,7 +130,7 @@
       7
     </td>
     <td>
-      <a href="#">
+      <a href="https://github.com/myshasolin/machine_learning_in_business/blob/main/7%20%D0%98%D0%BD%D1%82%D0%B5%D1%80%D0%BF%D1%80%D0%B5%D1%82%D0%B0%D1%86%D0%B8%D1%8F%20%D0%BF%D1%80%D0%BE%D0%B3%D0%BD%D0%BE%D0%B7%D0%BE%D0%B2%20%D0%BC%D0%BE%D0%B4%D0%B5%D0%BB%D0%B8/dz_7.ipynb">
         Интерпретация прогнозов модели (SHAP): объясняем поведение модели на отдельных наблюдениях
       </a>
     </td>
@@ -148,7 +148,7 @@
       8
     </td>
     <td>
-      <a href="#">
+      <a href="https://github.com/myshasolin/machine_learning_in_business/blob/main/8%20%D0%9F%D1%80%D0%BE%D0%B2%D0%B5%D1%80%D0%BA%D0%B0%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%8B%20%D0%BC%D0%BE%D0%B4%D0%B5%D0%BB%D0%B8%20%D0%BD%D0%B0%20%D0%BF%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D0%B5/dz_8.ipynb">
         Проверка работы модели на практике: A/B-тестирование
       </a>
     </td>
@@ -166,7 +166,7 @@
       9
     </td>
     <td>
-      <a href="#">
+      <a href="https://github.com/myshasolin/machine_learning_in_business/tree/main/9%20%D0%98%D0%BD%D1%82%D0%B5%D0%B3%D1%80%D0%B0%D1%86%D0%B8%D1%8F.%20%D0%98%D1%82%D0%BE%D0%B3%D0%BE%D0%B2%D1%8B%D0%B9%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82">
         Интеграция. Итоговый проект
       </a>
     </td>
